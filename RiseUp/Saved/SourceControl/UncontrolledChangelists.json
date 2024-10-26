@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/04_GameBoardLevel.umap",
+				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/__ExternalActors__/Maps/04_GameBoardLevel/F/4S/Y9PB194QAS8IP0WBC37JEN.uasset",
+				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/CardUi/W_Card.uasset",
+				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/CardUi/W_CardHand.uasset",
+				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/BoardUI/W_Board.uasset",
 				"C:/Users/lr104student22/Valentina Fierro/RiseUP_Game/RiseUp/RiseUp/Content/Maps/CardUi/W_CardHUD.uasset",
 				"C:/Users/lr104student22/Valentina Fierro/RiseUP_Game/RiseUp/RiseUp/Content/__ExternalActors__/Maps/04_GameBoardLevel/3/FU/ZEQQ5G9Y8VZYO26C63PF0W.uasset",
 				"C:/Users/lr104student22/Valentina Fierro/RiseUP_Game/RiseUp/RiseUp/Content/__ExternalActors__/Maps/04_GameBoardLevel/0/7N/Y57YDAUSRA6Y9H4JLTN8TF.uasset",
