@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/BoardUI/W_BoardLayout.uasset",
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/CardUi/W_CardHand.uasset",
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/04_GameBoardLevel.umap",
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/CardUi/BPI_DrawCard.uasset",
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/CardUi/BPI_StartRound.uasset",
+				"D:/GAD101_2024Fall/RiseUp/RiseUp/Content/Maps/CardUi/BPI_AddCard.uasset",
 				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/04_GameBoardLevel.umap",
 				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/__ExternalActors__/Maps/04_GameBoardLevel/F/4S/Y9PB194QAS8IP0WBC37JEN.uasset",
 				"C:/Users/Super/OneDrive/Documents/GitHub/RiseUp/RiseUp/Content/Maps/CardUi/W_Card.uasset",
